@@ -2,7 +2,7 @@ package debugandodocs;
 
 @SuppressWarnings("unused")
 public class App3 {
-    
+
     public static void main(String[] args) {
 
         int i = 0;
